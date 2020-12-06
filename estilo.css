@@ -1,0 +1,57 @@
+body{
+  display: block;
+  text-align: center;
+  color: #333;
+  
+}
+
+#main{
+  display: block;
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+
+h1{
+  margin: 0;
+ 
+}
+
+#img-div {
+    display: block;
+    padding: 10px;
+    margin: 0;
+}
+
+
+p{
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin-top: 0;
+    margin-bottom: 40px;
+  }
+
+#tribute-info{
+    display: block;
+    list-style-type: disc;
+    margin: 0 auto 20px auto;
+    padding: 40px;
+  }
+#zoro {
+  min-height: 0%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+
+}
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+
+}
